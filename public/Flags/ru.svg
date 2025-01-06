@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="28px" height="16px" viewBox="0 0 28 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Icons/Misc/language_rus@3x</title>
+    <g id="Icons/Misc/language_rus" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="orange_line" fill="#F4F4F4" fill-rule="nonzero" x="0" y="0" width="28" height="5.5"></rect>
+        <rect id="blue_line" fill="#E80000" fill-rule="nonzero" x="0" y="10.8882812" width="28" height="5.5"></rect>
+        <rect id="red_line" fill="#0035AD" fill-rule="nonzero" x="0" y="5.44140625" width="28" height="5.5"></rect>
+    </g>
+</svg>

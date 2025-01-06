@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="50px" height="50px" viewBox="0 0 50 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>arrow</title>
+    <defs>
+        <circle id="path-1" cx="25" cy="25" r="25"></circle>
+        <filter x="-52.0%" y="-44.0%" width="204.0%" height="204.0%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="4" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="8" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Buttons/Circle/Scroll-Next" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" transform="translate(11.000000, 10.000000)">
+            <rect id="bounding-box" x="0" y="0" width="30" height="30"></rect>
+            <path d="M20.3598407,11.2318038 C20.7841176,10.8782397 21.4146823,10.9355638 21.7682464,11.3598407 C22.0946132,11.7514809 22.0708742,12.318893 21.7315856,12.6819574 L21.6402095,12.7682464 L15.6402095,17.7682464 C15.3030768,18.0491903 14.8272408,18.0747306 14.4648894,17.8448674 L14.3598407,17.7682464 L8.35984067,12.7682464 C7.93556378,12.4146823 7.87823971,11.7841176 8.23180379,11.3598407 C8.55817064,10.9682005 9.12056168,10.8892301 9.53885748,11.157486 L9.64020947,11.2318038 L15.0000251,15.6970251 L20.3598407,11.2318038 Z" id="Path" fill="#101828" transform="translate(15.000025, 14.500013) rotate(-90.000000) translate(-15.000025, -14.500013) "></path>
+        </g>
+    </g>
+</svg>
